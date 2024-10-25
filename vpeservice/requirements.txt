@@ -1,0 +1,16 @@
+boto3==1.26.56
+requests-sigv4==0.1.6
+hvac==1.0.2
+Flask===2.2.2
+Flask-Cors==3.0.10
+flask-restx==1.0.0
+flask-mongoengine==1.0.0
+Werkzeug==2.2.2
+etcd3==0.12.0
+pymemcache==4.0.0
+itsdangerous==2.1.2
+pymongo==4.3.3
+Jinja2==3.1.2
+protobuf==3.20.0
+zipp==3.11.0
+grpcio==1.51.1
